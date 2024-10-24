@@ -43,3 +43,17 @@ Bienvenidos aquí colocaré todos los enlaces que considere importes para nuestr
 - [IBM Food Trust (Blockchain)](https://www.ibm.com/blockchain/solutions/food-trust): Solución basada en blockchain para mejorar la transparencia y trazabilidad en la cadena alimentaria.
 - [ThingSpeak (IoT)](https://thingspeak.com/): Plataforma IoT que permite recopilar, analizar y visualizar datos en tiempo real desde sensores agrícolas.
 - [Smart Agriculture IoT Platforms](https://www.libelium.com/smart-agriculture/): Soluciones IoT para monitoreo ambiental y agrícola en tiempo real, útil para condiciones del suelo y clima.
+-  - [Meteomatics API](https://www.meteomatics.com/en/weather-api/): Ofrece datos meteorológicos en tiempo real para Latinoamérica y el Caribe.
+- [CIAT (Centro Internacional de Agricultura Tropical)](https://ciat.cgiar.org/): Investigación y datos para mejorar la agricultura tropical en Latinoamérica.
+- [SIB Colombia](https://sibcolombia.net/): Plataforma para datos sobre biodiversidad en Colombia, útil para proyectos de conservación y reforestación.
+- [REDCAFE](https://www.redcafes.org/): Información sobre agricultura familiar y proyectos de economía solidaria en Centroamérica.
+- [MeteoFrance](https://donneespubliques.meteofrance.fr/): Proporciona datos meteorológicos históricos y en tiempo real para Europa, particularmente Francia.
+- [European Environment Agency (EEA)](https://www.eea.europa.eu/data-and-maps): Ofrece datos sobre medio ambiente, clima y agricultura en toda Europa.
+- [Eurostat Agriculture Data](https://ec.europa.eu/eurostat/web/agriculture/data/database): Datos de la Unión Europea sobre producción agrícola, sostenibilidad, y mercados.
+- [APEC Climate Center (APCC)](https://www.apcc21.org/eng): Proporciona datos climáticos y predicciones para la región de Asia-Pacífico.
+- [Asia Regional Resilience to a Changing Climate (ARRCC)](https://www.metoffice.gov.uk/about-us/what/working-with/asia): Proyectos y datos sobre resiliencia climática en Asia, con predicciones detalladas.
+- [FAO Asia Agriculture Data](http://www.fao.org/asiapacific/resources/en/): Información sobre prácticas agrícolas sostenibles y producción en Asia.
+- [Asian Development Bank Data](https://data.adb.org/): Base de datos agrícola y ambiental con enfoque en Asia.
+- [NOAA Climate Data](https://www.ncdc.noaa.gov/): Datos climáticos históricos, actuales y predicciones para América del Norte y el Caribe.
+- [Servicio Meteorológico Nacional de México](https://smn.conagua.gob.mx/): Datos meteorológicos de México y predicciones locales.
+- [Agricultural Marketing Service (AMS) USDA](https://www.ams.usda.gov/): Datos sobre mercados y precios agrícolas de Estados Unidos y América Latina.
