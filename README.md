@@ -11,7 +11,7 @@ Bienvenidos aquí colocaré todos los enlaces que considere importes para nuestr
 - [Azure Open Datasets](https://learn.microsoft.com/en-us/azure/open-datasets/samples): Colección de datasets abiertos para IA y aprendizaje automático en la nube, útiles para proyectos que requieren análisis de grandes cantidades de datos climáticos y agrícolas.
 
 ## Recursos de Giovanni
-- [Nueva propuesta Giovanni Agricultura Sostenible (EcoNecta)](EcoNecta.html)
+- [Nueva propuesta Giovanni sostenibilidad y gestión ambiental (EcoNecta)](EcoNecta.html)
 - [Propuesta anterior](AgroApp.html)
 - [Meet the Winners - Microsoft Developers Azure AI and Cosmos DB Learning Hackathon](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/): Blog que destaca a los ganadores de hackathons organizados por Microsoft, con proyectos innovadores basados en IA y Cosmos DB.
 - [Responsible AI Global Hackathon Winners](https://techcommunity.microsoft.com/t5/microsoft-developer-community/winners-announced-responsible-ai-global-hackathon/ba-p/3600131): Anuncio de los ganadores de un hackathon global enfocado en la IA Responsable, con ejemplos de cómo se aplicaron los principios éticos de IA en soluciones reales.
