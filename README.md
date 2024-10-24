@@ -43,7 +43,7 @@ Bienvenidos aquí colocaré todos los enlaces que considere importes para nuestr
 - [IBM Food Trust (Blockchain)](https://www.ibm.com/blockchain/solutions/food-trust): Solución basada en blockchain para mejorar la transparencia y trazabilidad en la cadena alimentaria.
 - [ThingSpeak (IoT)](https://thingspeak.com/): Plataforma IoT que permite recopilar, analizar y visualizar datos en tiempo real desde sensores agrícolas.
 - [Smart Agriculture IoT Platforms](https://www.libelium.com/smart-agriculture/): Soluciones IoT para monitoreo ambiental y agrícola en tiempo real, útil para condiciones del suelo y clima.
--  - [Meteomatics API](https://www.meteomatics.com/en/weather-api/): Ofrece datos meteorológicos en tiempo real para Latinoamérica y el Caribe.
+- [Meteomatics API](https://www.meteomatics.com/en/weather-api/): Ofrece datos meteorológicos en tiempo real para Latinoamérica y el Caribe.
 - [CIAT (Centro Internacional de Agricultura Tropical)](https://ciat.cgiar.org/): Investigación y datos para mejorar la agricultura tropical en Latinoamérica.
 - [SIB Colombia](https://sibcolombia.net/): Plataforma para datos sobre biodiversidad en Colombia, útil para proyectos de conservación y reforestación.
 - [REDCAFE](https://www.redcafes.org/): Información sobre agricultura familiar y proyectos de economía solidaria en Centroamérica.
