@@ -19,8 +19,6 @@
 - **Azure Maps**: Visualización de datos en mapas interactivos para recomendaciones de cultivo y áreas de reforestación.
 - **Azure Vision**: Validación de imágenes para plantación de árboles, con IA responsable.
 
-EcoNecta tiene una visión a futuro que incluye la integración de IoT, escalabilidad global y una comunidad interactiva que impulse la educación y la colaboración en prácticas agrícolas sostenibles.
-
 ## Proyecto
 - [EcoNecta](EcoNecta.html)
 - [Propuesta anterior](AgroApp.html)
@@ -70,3 +68,6 @@ EcoNecta tiene una visión a futuro que incluye la integración de IoT, escalabi
 - [NOAA Climate Data](https://www.ncdc.noaa.gov/): Datos climáticos históricos, actuales y predicciones para América del Norte y el Caribe.
 - [Servicio Meteorológico Nacional de México](https://smn.conagua.gob.mx/): Datos meteorológicos de México y predicciones locales.
 - [Agricultural Marketing Service (AMS) USDA](https://www.ams.usda.gov/): Datos sobre mercados y precios agrícolas de Estados Unidos y América Latina.
+
+---
+EcoNecta tiene una visión a futuro que incluye la integración de IoT, escalabilidad global y una comunidad interactiva que impulse la educación y la colaboración en prácticas agrícolas sostenibles.
