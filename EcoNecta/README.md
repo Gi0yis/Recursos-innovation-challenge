@@ -45,8 +45,8 @@
 - [European Environment Agency (EEA)](https://www.eea.europa.eu/data-and-maps): Ofrece datos sobre medio ambiente, clima y agricultura en toda Europa.
 - [Eurostat Agriculture Data](https://ec.europa.eu/eurostat/web/agriculture/data/database): Datos de la Unión Europea sobre producción agrícola, sostenibilidad, y mercados.
 - [APEC Climate Center (APCC)](https://www.apcc21.org/eng): Proporciona datos climáticos y predicciones para la región de Asia-Pacífico.
-- [Asia Regional Resilience to a Changing Climate (ARRCC)](https://www.metoffice.gov.uk/about-us/what/working-with/asia): Proyectos y datos sobre resiliencia climática en Asia, con predicciones detalladas.
-- [FAO Asia Agriculture Data](http://www.fao.org/asiapacific/resources/en/): Información sobre prácticas agrícolas sostenibles y producción en Asia.
+- [Asia Regional Resilience to a Changing Climate (ARRCC)](https://www.metoffice.gov.uk/): Proyectos y datos sobre resiliencia climática en Asia, con predicciones detalladas.
+- [FAO Asia Agriculture Data](https://www.fao.org/home/en/): Información sobre prácticas agrícolas sostenibles y producción en Asia.
 - [Asian Development Bank Data](https://data.adb.org/): Base de datos agrícola y ambiental con enfoque en Asia.
 - [NOAA Climate Data](https://www.ncdc.noaa.gov/): Datos climáticos históricos, actuales y predicciones para América del Norte y el Caribe.
 - [Servicio Meteorológico Nacional de México](https://smn.conagua.gob.mx/): Datos meteorológicos de México y predicciones locales.
