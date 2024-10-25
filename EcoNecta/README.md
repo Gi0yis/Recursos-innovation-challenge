@@ -2,6 +2,10 @@
 
 ## Introducción
 
+## Proyecto
+- [Nueva propuesta Giovanni sostenibilidad y gestión ambiental (EcoNecta)](EcoNecta.html)
+- [Propuesta anterior](AgroApp.html)
+
 ## Recursos
 - [Meet the Winners - Microsoft Developers Azure AI and Cosmos DB Learning Hackathon](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/): Blog que destaca a los ganadores de hackathons organizados por Microsoft, con proyectos innovadores basados en IA y Cosmos DB.
 - [Responsible AI Global Hackathon Winners](https://techcommunity.microsoft.com/t5/microsoft-developer-community/winners-announced-responsible-ai-global-hackathon/ba-p/3600131): Anuncio de los ganadores de un hackathon global enfocado en la IA Responsable, con ejemplos de cómo se aplicaron los principios éticos de IA en soluciones reales.
