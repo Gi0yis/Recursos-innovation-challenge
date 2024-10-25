@@ -12,4 +12,4 @@
 - [Azure Data Security and Encryption Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-overview)
 - [PII Detection in Text Using Python and Azure](https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/quickstart?tabs=linux&pivots=programming-language-csharp)
 - [Getting Started with Power Automate](https://learn.microsoft.com/en-us/power-automate/getting-started)
-- [Microsoft Learn - Seguridad en Azure](https://azure.microsoft.com/es-es/explore/security)
+- [Microsoft Learn - Seguridad en Azure](https://learn.microsoft.com/en-us/azure/security/)
