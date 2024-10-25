@@ -1,9 +1,30 @@
-# EcoNecta
+# 🌱 EcoNecta
 
-## Introducción
+**EcoNecta** es un proyecto enfocado en apoyar a agricultores y comunidades en la toma de decisiones informadas, promoviendo la sostenibilidad agrícola y la reforestación. Utilizando tecnologías de Microsoft como Azure Machine Learning, Data Factory, Maps y Vision, la aplicación ofrece soluciones innovadoras para mejorar el rendimiento de los cultivos, prevenir incendios forestales y fomentar prácticas sostenibles.
+
+## 🎯 Objetivos
+- **Optimizar** el rendimiento agrícola a través de análisis climático y recomendaciones de cultivo personalizadas.
+- **Promover** la reforestación mediante incentivos y verificación de árboles plantados.
+- **Prevenir** incendios forestales con modelos predictivos y alertas tempranas.
+
+## 🔑 Funcionalidades
+1. **Análisis Climático**: Datos históricos y en tiempo real para pronósticos meteorológicos y simulación de IoT sin dispositivos.
+2. **Recomendaciones de Cultivo**: Predicciones de cultivos, calendario de siembra y planes de reforestación con enfoque en sostenibilidad.
+3. **Predicciones de Incendios Forestales**: Identificación de áreas de riesgo mediante análisis geoespacial en Azure Maps, con alertas automáticas.
+4. **Sistema de Verificación de Árboles Plantados**: Reconocimiento de imágenes con Azure Vision para validar la autenticidad de árboles plantados, otorgando incentivos a los usuarios.
+
+## 🚀 Tecnologías Microsoft Usadas
+- **Azure Machine Learning**: Modelos predictivos para cultivos y prevención de incendios.
+- **Azure Data Factory**: Integración y procesamiento eficiente de datos climáticos y de mercado.
+- **Azure Maps**: Visualización de datos en mapas interactivos para recomendaciones de cultivo y áreas de reforestación.
+- **Azure Vision**: Validación de imágenes para plantación de árboles, con IA responsable.
+
+---
+
+EcoNecta tiene una visión a futuro que incluye la integración de IoT, escalabilidad global y una comunidad interactiva que impulse la educación y la colaboración en prácticas agrícolas sostenibles.
 
 ## Proyecto
-- [Nueva propuesta Giovanni sostenibilidad y gestión ambiental (EcoNecta)](EcoNecta.html)
+- [EcoNecta](EcoNecta.html)
 - [Propuesta anterior](AgroApp.html)
 
 ## Recursos
