@@ -12,3 +12,5 @@ Bienvenidos aquí colocaré todos los enlaces que considere importes para nuestr
 
 ## Proyectos Giovanni
 - [Sostenibilidad y gestión ambiental (EcoNecta)](EcoNecta/README.md)
+- [SafeDocs](SafeDocs/README.md)
+- [DataChat](DataChat/README.md)
