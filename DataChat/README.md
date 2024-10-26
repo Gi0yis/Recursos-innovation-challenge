@@ -1,7 +1,7 @@
 # DataChat
 
 ## Mapa Del Proyecto
-- [DataChat](DataChat/DataChat.html)
+- [DataChat](DataChat.html)
 
 ## Recursos
 - [Text Analytics for Detecting Personally Identifiable Information (PII)](https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/how-to-call)
