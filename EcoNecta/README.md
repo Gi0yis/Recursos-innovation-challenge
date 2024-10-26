@@ -19,7 +19,7 @@
 - **Azure Maps**: Visualización de datos en mapas interactivos para recomendaciones de cultivo y áreas de reforestación.
 - **Azure Vision**: Validación de imágenes para plantación de árboles, con IA responsable.
 
-## Proyecto
+## Mapa del proyecto
 - [EcoNecta](EcoNecta.html)
 - [Propuesta anterior](AgroApp.html)
 
