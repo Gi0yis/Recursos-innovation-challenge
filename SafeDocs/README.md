@@ -24,6 +24,14 @@ SafeDocs es una plataforma diseñada para ayudar a las organizaciones reguladas 
    - Monitoreo continuo del uso y acceso a los datos en el sistema.
    - Auditoría de actividad para asegurar transparencia en el flujo de documentos.
 
+## 🛠️ Tecnologías Utilizadas
+
+- **Backend**: Spring Boot, Azure Functions
+- **Frontend**: React con dashboard intuitivo
+- **Seguridad**: Azure Sentinel, cifrado de datos, autenticación de múltiples factores
+- **Data y Machine Learning**: Azure Machine Learning para detección de datos sensibles, Power BI o Power Automate para reportes de cumplimiento
+- **OCR**: Azure Cognitive Services (en desarrollo)
+
 ## 📈 Impacto y Beneficios
 
 SafeDocs se enfoca en la transparencia, la seguridad y la trazabilidad, haciendo posible que las organizaciones aseguren el tratamiento responsable de datos sensibles y mantengan el cumplimiento regulatorio en entornos empresariales y de alto volumen de datos.
