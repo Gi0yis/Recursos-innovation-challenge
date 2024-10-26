@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.17.2/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"SafeDocs - Transparencia y Seguridad en Documentos Sensibles","children":[{"content":"Problema","children":[{"content":"Organizaciones reguladas enfrentan desafíos para:","children":[{"content":"Proteger datos sensibles (PII, PHI)","children":[],"payload":{"lines":"4,5"}},{"content":"Mantener transparencia en el tratamiento de datos","children":[],"payload":{"lines":"5,6"}},{"content":"Cumplir con regulaciones como GDPR, HIPAA","children":[],"payload":{"lines":"6,8"}}],"payload":{"lines":"3,8"}}],"payload":{"lines":"2,3"}},{"content":"Solución","children":[{"content":"Plataforma que identifica, clasifica y etiqueta datos sensibles en documentos de texto","children":[{"content":"Identificación y etiquetado automático de PII y PHI","children":[],"payload":{"lines":"10,11"}},{"content":"Análisis en tiempo real del uso y distribución de datos sensibles","children":[],"payload":{"lines":"11,12"}},{"content":"Reportes de cumplimiento y alertas automáticas","children":[],"payload":{"lines":"12,14"}}],"payload":{"lines":"9,14"}}],"payload":{"lines":"8,9"}},{"content":"Tecnologías Clave","children":[{"content":"<strong>Backend</strong>","children":[{"content":"Spring Boot para procesamiento de documentos","children":[],"payload":{"lines":"16,17"}},{"content":"Azure Functions para tareas automáticas","children":[],"payload":{"lines":"17,18"}},{"content":"Azure Sentinel para seguridad avanzada y monitoreo","children":[],"payload":{"lines":"18,19"}}],"payload":{"lines":"15,19"}},{"content":"<strong>Frontend</strong>","children":[{"content":"React para la interfaz de usuario","children":[],"payload":{"lines":"20,21"}},{"content":"Dashboard intuitivo para control y monitoreo","children":[],"payload":{"lines":"21,22"}},{"content":"Incluir herramientas de accesibilidad para una interfaz más inclusiva","children":[],"payload":{"lines":"22,23"}}],"payload":{"lines":"19,23"}},{"content":"<strong>Data</strong>","children":[{"content":"Azure Machine Learning para modelo de detección de datos sensibles","children":[],"payload":{"lines":"24,25"}},{"content":"Power BI o Power Automate para reportes de transparencia y cumplimiento","children":[],"payload":{"lines":"25,26"}},{"content":"Azure Cognitive Services para integrar OCR en tiempo real","children":[],"payload":{"lines":"26,27"}}],"payload":{"lines":"23,27"}},{"content":"<strong>Seguridad</strong>","children":[{"content":"Cifrado de datos en tránsito y en reposo","children":[],"payload":{"lines":"28,29"}},{"content":"Autenticación de múltiples factores para accesos a la plataforma","children":[],"payload":{"lines":"29,30"}},{"content":"Auditoría continua de seguridad con Azure Security Center","children":[],"payload":{"lines":"30,32"}}],"payload":{"lines":"27,32"}}],"payload":{"lines":"14,15"}},{"content":"Funcionalidades Principales","children":[{"content":"<strong>1. Procesamiento y Detección de Datos Sensibles</strong>","children":[{"content":"Clasificación automática de PII y PHI en documentos","children":[],"payload":{"lines":"34,35"}},{"content":"Etiquetado y registro en base de datos segura","children":[],"payload":{"lines":"35,36"}},{"content":"Análisis de contexto en tiempo real para validar sensibilidad de datos","children":[],"payload":{"lines":"36,37"}},{"content":"Considerar sesgo en detección de datos para minimizar falsos positivos","children":[],"payload":{"lines":"37,38"}}],"payload":{"lines":"33,38"}},{"content":"<strong>2. Transparencia y Reportes de Cumplimiento</strong>","children":[{"content":"Reportes automáticos para cumplimiento GDPR, HIPAA","children":[],"payload":{"lines":"39,40"}},{"content":"Control de acceso y rastreo de interacciones con datos sensibles","children":[],"payload":{"lines":"40,41"}},{"content":"Alertas automáticas en caso de riesgo de fuga de datos","children":[],"payload":{"lines":"41,42"}},{"content":"Personalización de reportes según regulaciones locales","children":[],"payload":{"lines":"42,43"}}],"payload":{"lines":"38,43"}},{"content":"<strong>3. Monitoreo y Audibilidad de Seguridad</strong>","children":[{"content":"Monitoreo en tiempo real del uso de datos en el sistema","children":[],"payload":{"lines":"44,45"}},{"content":"Auditoría de actividad para asegurar transparencia","children":[],"payload":{"lines":"45,46"}},{"content":"Revisión de flujo de documentos y datos sensibles","children":[],"payload":{"lines":"46,47"}},{"content":"Implementar auditoría completa de acciones de usuarios para trazabilidad detallada","children":[],"payload":{"lines":"47,49"}}],"payload":{"lines":"43,49"}}],"payload":{"lines":"32,33"}},{"content":"Funcionalidades Extras (si hay tiempo)","children":[{"content":"Integración con OCR para documentos escaneados","children":[],"payload":{"lines":"50,51"}},{"content":"Soporte para análisis de documentos en múltiples idiomas","children":[],"payload":{"lines":"51,52"}},{"content":"Añadir alertas inteligentes para detectar patrones sospechosos de uso de datos","children":[],"payload":{"lines":"52,53"}}],"payload":{"lines":"49,50"}}],"payload":{"lines":"0,1"}},{})</script>
+</body>
+</html>
