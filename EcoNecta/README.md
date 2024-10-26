@@ -69,5 +69,9 @@
 - [Servicio Meteorológico Nacional de México](https://smn.conagua.gob.mx/): Datos meteorológicos de México y predicciones locales.
 - [Agricultural Marketing Service (AMS) USDA](https://www.ams.usda.gov/): Datos sobre mercados y precios agrícolas de Estados Unidos y América Latina.
 
+## Recursos de Microsoft
+- [Planetary Computer](https://planetarycomputer.microsoft.com/): Plataforma de Microsoft que ofrece acceso a grandes conjuntos de datos y herramientas de análisis para abordar desafíos ambientales a nivel global.
+- [Azure Open Datasets](https://learn.microsoft.com/en-us/azure/open-datasets/samples): Colección de datasets abiertos para IA y aprendizaje automático en la nube, útiles para proyectos que requieren análisis de grandes cantidades de datos climáticos y agrícolas.
+
 ---
 EcoNecta tiene una visión a futuro que incluye la integración de IoT, escalabilidad global y una comunidad interactiva que impulse la educación y la colaboración en prácticas agrícolas sostenibles.
