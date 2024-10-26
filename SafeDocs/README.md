@@ -38,7 +38,7 @@ SafeDocs se enfoca en la transparencia, la seguridad y la trazabilidad, haciendo
 
 ## Mapa del proyecto
 - [SafeDocs](SafeDocs.html)
-- 
+
 ## Recursos
 - [Text Analytics API Overview](https://learn.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview)
 - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
