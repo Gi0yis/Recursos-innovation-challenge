@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.17.2/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"ReForest","children":[{"content":"1. Backend y Servicios","children":[{"content":"<strong>Azure Static Web Apps</strong>: Hosting de la app Angular con APIs serverless para datos de misiones y verificación de actividades.","children":[],"payload":{"lines":"3,4"}},{"content":"<strong>Azure Cosmos DB</strong>: Base de datos NoSQL para logros, misiones y actividades de usuario.","children":[],"payload":{"lines":"4,6"}}],"payload":{"lines":"2,3"}},{"content":"2. Gamificación y Geolocalización","children":[{"content":"<strong>Azure Maps</strong>: Muestra puntos de reforestación y rutas, con ubicaciones cercanas para retos sostenibles.","children":[],"payload":{"lines":"7,8"}},{"content":"<strong>Azure Logic Apps</strong>: Automatiza misiones y notificaciones (ej., misiones diarias y actualizaciones de eventos).","children":[],"payload":{"lines":"8,10"}}],"payload":{"lines":"6,7"}},{"content":"3. Verificación y Recompensas","children":[{"content":"<strong>Azure Custom Vision</strong>: Verificación de fotos de actividades (plantación, limpieza, etc.), asegurando autenticidad.","children":[],"payload":{"lines":"11,12"}},{"content":"<strong>Sistema de Recompensas</strong>: Logros y puntos por retos completados, registrados en Cosmos DB.","children":[],"payload":{"lines":"12,14"}}],"payload":{"lines":"10,11"}},{"content":"4. Frontend Interactivo","children":[{"content":"<strong>Angular</strong>: UI para consumir APIs, mostrar actividades y logros, y permitir carga de imágenes.","children":[],"payload":{"lines":"15,16"}},{"content":"<strong>WebAR</strong>: Visualización interactiva en tiempo real de puntos de actividad y especies recomendadas.","children":[],"payload":{"lines":"16,18"}}],"payload":{"lines":"14,15"}},{"content":"5. Notificaciones y Automatización","children":[{"content":"<strong>Power Automate + Logic Apps</strong>: Notificaciones automáticas, como:","children":[{"content":"<strong>Diarias</strong>: “¡Completa tu reto de hoy! Planta o limpia un área cercana.”","children":[],"payload":{"lines":"20,21"}},{"content":"<strong>Semanales</strong>: “Nueva misión: planta 5 árboles o participa en una actividad de limpieza.”","children":[],"payload":{"lines":"21,22"}},{"content":"<strong>Eventos</strong>: “Desafío mensual: completa 10 actividades sostenibles.”","children":[],"payload":{"lines":"22,24"}}],"payload":{"lines":"19,24"}}],"payload":{"lines":"18,19"}},{"content":"6. Retos Diarios y Sostenibles","children":[{"content":"<strong>Plantación de Árboles</strong>: Planta y registra con foto.","children":[],"payload":{"lines":"25,26"}},{"content":"<strong>Observación de Flora/Fauna</strong>: Fotografía y describe especies nativas.","children":[],"payload":{"lines":"26,27"}},{"content":"<strong>Recolección de Residuos</strong>: Limpia áreas verdes con fotos de “antes y después”.","children":[],"payload":{"lines":"27,28"}},{"content":"<strong>Educación Sostenible</strong>: Completa una lección educativa.","children":[],"payload":{"lines":"28,29"}},{"content":"<strong>Calidad de Suelo/Agua</strong>: Observa y registra datos de suelo o agua.","children":[],"payload":{"lines":"29,30"}},{"content":"<strong>Compartir Conocimiento</strong>: Publica un consejo en la comunidad.","children":[],"payload":{"lines":"30,31"}},{"content":"<strong>Mantenimiento de Árboles</strong>: Riega o limpia alrededor de un árbol plantado.","children":[],"payload":{"lines":"31,32"}},{"content":"<strong>Misiones de Comunidad</strong>: Únete a una misión grupal.","children":[],"payload":{"lines":"32,33"}},{"content":"<strong>Creatividad Verde</strong>: Crea algo con materiales reciclados y registra con foto.","children":[],"payload":{"lines":"33,35"}}],"payload":{"lines":"24,25"}},{"content":"7. Seguridad","children":[{"content":"<strong>Azure AD B2C</strong>: Autenticación segura para proteger datos de usuario y logros.","children":[],"payload":{"lines":"36,37"}}],"payload":{"lines":"35,36"}}],"payload":{"lines":"0,1"}},{})</script>
+</body>
+</html>
